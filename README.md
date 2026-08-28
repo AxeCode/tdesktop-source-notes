@@ -4,7 +4,7 @@
 
 ## 在线阅读
 
-GitHub Pages：<https://hanqing.github.io/tdesktop-source-notes/>
+GitHub Pages：<https://axecode.github.io/tdesktop-source-notes/>
 
 ## 内容结构
 
